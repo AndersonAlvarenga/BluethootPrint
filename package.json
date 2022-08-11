@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-impressaoBluetooth",
+  "version": "0.0.1",
+  "description": "An Android Cordova plugin that allows printing to a MUNBYN printer via bluetooth.",
+  "cordova": {
+    "id": "cordova-plugin-impressaoBluetooth",
+    "platforms": [
+      "android",
+	  "ios"
+    ]
+  },
+  "keywords": [
+    "munbyn",
+    "bluetooth",
+    "printer",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=7.0.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=7.0.0"
+    }
+  ]
+}
